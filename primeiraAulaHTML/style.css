@@ -6,7 +6,7 @@ body{
 }
 
 .div2{
-    background: burlywood;
+    background: rgb(56, 81, 194);
     padding: 40px;
     border-radius: 8px;
     text-align: center;
@@ -45,8 +45,8 @@ input{
 }
 
 button{
-    background-color: bisque;
-    color: rgba(148, 94, 43, 0.884);
+    background-color: rgb(240, 101, 36);
+    color: rgba(88, 50, 0, 0.884);
     border: none;
     cursor: pointer;
     margin-top: 20px;
@@ -55,6 +55,7 @@ button{
 }
 
 button:hover{
-    background-color: rgb(207, 169, 123);
+    background-color: rgb(255, 109, 41);
+    transition: all 0.3 ease;
 }
 
